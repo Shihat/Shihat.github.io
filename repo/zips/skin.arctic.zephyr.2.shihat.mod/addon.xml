@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.arctic.zephyr.2.shihat.mod" name="Arctic: Zephyr 2 - Shihat" provider-name="jurialmunkey, pkscout, heppen" version="1.0.12">
+<addon id="skin.arctic.zephyr.2.shihat.mod" name="Arctic: Zephyr 2 - Shihat" provider-name="Shihat" version="1.0">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts"/>
@@ -31,12 +31,12 @@
         <summary lang="ro">Curat, minimalist, elegant, simplu, ușor</summary>
         <summary lang="ru">Опрятный, минималистичный, элегантный, простой, светлый.</summary>
 
+        <description lang="de">Das ist eine leichte Modifikation von Arctic Zephyr 2. Arctic Zephyr 2 ist ein minimalistisches Skin, erstellt von jurialmunkey. Der Skin ist darauf ausgelegt, einfach zu sein, damit sich der Benutzer auf seine Mediainhalte konzentrieren kann..</description>
         <description lang="en">This is a light mod of Arctic Zephyr 2 by heppen. Arctic Zephyr 2 is a minimalistic skin created by jurialmunkey and moded to work with Kodi 19 Matrix by pkscout. The skin is designed to be simple so that the user can focus on their media content. In addition to the default light colour scheme, the skin also includes a number of darker variations.</description>
         <description lang="pl">Jest to modyfikacja skórki Arctic Zephyr 2 autorstwa heppen. Arctic Zephyr 2 jest minimalistyczną skórką stworzoną przez jurialmunkey i zmodowaną do pracy z Kodi 19 Matrix przez pkscout. Skórka została zaprojektowana jako prosta, aby użytkownik mógł skupić się na swojej zawartości multimedialnej. Oprócz domyślnego jasnego schematu kolorów, skórka zawiera również kilka ciemniejszych wariantów.</description>
         <platform>all</platform>
         <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
         <forum>https://forum.kodi.tv/showthread.php?tid=362941</forum>
-        <source>https://github.com/DenDyGH/skin.arctic.zephyr.2.resurrection.mod</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
