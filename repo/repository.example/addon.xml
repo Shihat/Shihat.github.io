@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.example" name="repoexample" version="1.0" provider-name="Shizzo">
+<addon id="repository.example" name="repoexample" version="1.0" provider-name="Shihat">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Shihat/repository.example/master/repo/zips/addons.xml</info>
