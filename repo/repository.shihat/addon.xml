@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Skinzeugs</summary>
-        <description>des is alles nur ein test</description>
+        <summary>Shihat Repo</summary>
+        <description>Meine Addons und Backups</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
