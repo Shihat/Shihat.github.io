@@ -1521,7 +1521,7 @@ msgstr ""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#30038"
-msgid "	"
+msgid ""
 msgstr ""
 
 #: /1080i/SkinSettings.xml

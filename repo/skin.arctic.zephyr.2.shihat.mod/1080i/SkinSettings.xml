@@ -183,7 +183,7 @@
                         <width>850</width>
                         <centerleft>50%</centerleft>
                         <visible>Integer.IsEqual(Window.Property(CurrentFocus),9150)</visible>
-                        <label>$LOCALIZE[30038]</label>
+                        <label></label>
                         <align>center</align>
                     </control>
 
