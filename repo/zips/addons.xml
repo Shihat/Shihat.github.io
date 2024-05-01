@@ -68,6 +68,20 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
     </extension>
+</addon><addon id="script.skinhelper" name="SkinHelper" version="0.0.4" provider-name="heppen">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.pil" />
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Simple Skin Helper</summary>
+		<description lang="en_GB">This script is made by heppen to help skinning</description>
+		<language />
+		<platform>all</platform>
+	</extension>
 </addon><addon id="skin.arctic.zephyr.2.shihat.mod" name="Arctic: Zephyr 2 - Shihat" provider-name="Shihat" version="1.0">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
